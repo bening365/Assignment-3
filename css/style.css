@@ -1,6 +1,6 @@
 .container {
-  border:5px solid black;
-  background: black;
+  border:5px solid darkcyan;
+  background: darkcyan;
   height: 25%;
   color: white;
   font-size: 18px;
@@ -21,8 +21,8 @@ h1 {
 
 
 .meow {
-  border:5px solid grey;
-    background: grey;
+  border:5px solid lightgrey;
+    background: lightgrey;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -46,7 +46,7 @@ border:5px solid white;
 
   .four {
     background-color: yellow;
-    padding: 2px;
+    padding: 13px;
     text-align: center;
     
   }
@@ -81,11 +81,13 @@ border:5px solid white;
   }
 
   .body{
-    background: grey;
+    background: lightgrey;
   }
 
   .read{
     justify-content: flex-end; 
     float: right;
   }
+
+
 
